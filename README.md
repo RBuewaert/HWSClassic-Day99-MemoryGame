@@ -6,6 +6,7 @@ It's possible to play with images or words and to create customs categories.
 <img width="321" alt="MemoryGame1" src="https://user-images.githubusercontent.com/79987744/151557588-3651ecc3-895c-41fe-96d9-86ca1ac1112f.png"> <img width="320" alt="MemoryGame2" src="https://user-images.githubusercontent.com/79987744/151557605-40b3f428-c1d5-4c13-bed0-c5d6bde5b102.png"> <img width="319" alt="MemoryGame3" src="https://user-images.githubusercontent.com/79987744/151557609-8fce00e1-3694-4c5f-92c8-46d7bae57665.png">
 
 <img width="321" alt="MemoryGame4" src="https://user-images.githubusercontent.com/79987744/151557615-d495aeda-de91-4113-8952-397300f8423d.png"> <img width="321" alt="MemoryGame6" src="https://user-images.githubusercontent.com/79987744/151557620-5e42bf49-ae90-4b84-a090-aa5babf32412.png"> <img width="318" alt="MemoryGame7" src="https://user-images.githubusercontent.com/79987744/151557621-410eb9cf-acc0-4a92-9771-76ccfdd1490e.png">
+
 "Your challenge is to create a memory pairs game that has players find pairs of cards – it’s sometimes called Concentration, Pelmanism, or Pairs.
 At the very least you should:
 
